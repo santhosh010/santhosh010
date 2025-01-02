@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/santy_031" target="blank"><img src="https://img.shields.io/twitter/follow/santy_031?logo=twitter&style=for-the-badge" alt="santy_031" /></a> </p>
 
-- 🔭 I’m currently working on **Artificial Intelligence**
+- 🔭 I’m currently working on **Backend Developer**
 
-- 🌱 I’m currently learning **React & Blockchain**
+- 🌱 I’m currently learning **ReactJS**
 
 - 📫 How to reach me **hsanthosh010@gmail.com**
 
