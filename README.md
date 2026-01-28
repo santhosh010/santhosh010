@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/santy_031" target="blank"><img src="https://img.shields.io/twitter/follow/santy_031?logo=twitter&style=for-the-badge" alt="santy_031" /></a> </p>
 
-- 🔭 I’m currently working on **Backend Developer**
+- 🔭 I’m currently working on **Backend Development**
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **JS Frameworks**
 
 - 📫 How to reach me **hsanthosh010@gmail.com**
 
@@ -15,7 +15,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/santy_031" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="santy_031" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/santhosh010" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santhosh010" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20013906" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20013906" height="30" width="40" /></a>
 <a href="https://instagram.com/santy_031" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="santy_031" height="30" width="40" /></a>
